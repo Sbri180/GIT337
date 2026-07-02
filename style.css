@@ -1,4 +1,6 @@
 h1 { 
     font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    color: rgb(22, 143, 103);
+    background-color: black;
     font-style: italic;
 }
